@@ -75,8 +75,8 @@ export function MainLayout({ children }: PropsWithChildren) {
             <ThemeToggle />
           </div>
         </div>
-        <AdSlot position="top" />
       </header>
+      <AdSlot position="top" />
       <main className="flex-1">
         <div className="mx-auto max-w-6xl px-4 py-6">{children}</div>
       </main>
