@@ -1,52 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://pixeloop.tools/</loc>
+    <loc>https://image-tools-sandy-alpha.vercel.app/</loc>
   </url>
   <url>
-    <loc>https://pixeloop.tools/about</loc>
+    <loc>https://image-tools-sandy-alpha.vercel.app/about</loc>
   </url>
   <url>
-    <loc>https://pixeloop.tools/privacy-policy</loc>
+    <loc>https://image-tools-sandy-alpha.vercel.app/privacy-policy</loc>
   </url>
   <url>
-    <loc>https://pixeloop.tools/contact</loc>
+    <loc>https://image-tools-sandy-alpha.vercel.app/contact</loc>
   </url>
   <url>
-    <loc>https://pixeloop.tools/tools/image-compressor</loc>
+    <loc>https://image-tools-sandy-alpha.vercel.app/tools/image-compressor</loc>
   </url>
   <url>
-    <loc>https://pixeloop.tools/tools/image-size-reducer</loc>
+    <loc>https://image-tools-sandy-alpha.vercel.app/tools/image-size-reducer</loc>
   </url>
   <url>
-    <loc>https://pixeloop.tools/tools/image-to-webp</loc>
+    <loc>https://image-tools-sandy-alpha.vercel.app/tools/image-to-webp</loc>
   </url>
   <url>
-    <loc>https://pixeloop.tools/tools/webp-to-png</loc>
+    <loc>https://image-tools-sandy-alpha.vercel.app/tools/webp-to-png</loc>
   </url>
   <url>
-    <loc>https://pixeloop.tools/tools/image-resizer</loc>
+    <loc>https://image-tools-sandy-alpha.vercel.app/tools/image-resizer</loc>
   </url>
   <url>
-    <loc>https://pixeloop.tools/tools/image-crop</loc>
+    <loc>https://image-tools-sandy-alpha.vercel.app/tools/image-crop</loc>
   </url>
   <url>
-    <loc>https://pixeloop.tools/tools/image-rotate</loc>
+    <loc>https://image-tools-sandy-alpha.vercel.app/tools/image-rotate</loc>
   </url>
   <url>
-    <loc>https://pixeloop.tools/tools/image-format-converter</loc>
+    <loc>https://image-tools-sandy-alpha.vercel.app/tools/image-format-converter</loc>
   </url>
   <url>
-    <loc>https://pixeloop.tools/tools/image-quality-reducer</loc>
+    <loc>https://image-tools-sandy-alpha.vercel.app/tools/image-quality-reducer</loc>
   </url>
   <url>
-    <loc>https://pixeloop.tools/tools/bulk-image-compressor</loc>
+    <loc>https://image-tools-sandy-alpha.vercel.app/tools/bulk-image-compressor</loc>
   </url>
   <url>
-    <loc>https://pixeloop.tools/tools/image-metadata-remover</loc>
+    <loc>https://image-tools-sandy-alpha.vercel.app/tools/image-metadata-remover</loc>
   </url>
   <url>
-    <loc>https://pixeloop.tools/tools/image-preview-download</loc>
+    <loc>https://image-tools-sandy-alpha.vercel.app/tools/image-preview-download</loc>
   </url>
 </urlset>
 
