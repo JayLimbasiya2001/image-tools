@@ -1,0 +1,1 @@
+import{j as r}from"./index-DDlljXUO.js";import{CompressImageKbPage as t}from"./CompressImage100kbPage-3SoLWTI5.js";import"./router-ZtyXI7Mx.js";import"./browser-image-compression-BzWLnoYn.js";import"./fileUtils-BfWtsGKT.js";import"./ResultActions-BbFIb8no.js";function i(){return r.jsx(t,{defaultTargetKb:50,urlPath:"/compress-image-to-50kb"})}export{i as default};

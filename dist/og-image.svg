@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#020617"/>
+      <stop offset="1" stop-color="#0b1220"/>
+    </linearGradient>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0ea5e9"/>
+      <stop offset="1" stop-color="#0369a1"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#000" flood-opacity="0.35"/>
+    </filter>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <g filter="url(#shadow)">
+    <rect x="88" y="88" width="160" height="160" rx="44" fill="url(#g)"/>
+    <rect x="144" y="120" width="88" height="88" rx="14" transform="rotate(45 188 164)" fill="#020617"/>
+  </g>
+  <g fill="#e2e8f0">
+    <text x="88" y="340" font-family="system-ui, -apple-system, Segoe UI, Roboto, sans-serif" font-size="64" font-weight="700">
+      Pixeloop Tools
+    </text>
+    <text x="88" y="410" font-family="system-ui, -apple-system, Segoe UI, Roboto, sans-serif" font-size="32" font-weight="500" fill="#94a3b8">
+      Free online image tools " Compress " Resize " Convert " Crop
+    </text>
+    <text x="88" y="470" font-family="system-ui, -apple-system, Segoe UI, Roboto, sans-serif" font-size="24" font-weight="500" fill="#64748b">
+      Runs entirely in your browser. No uploads.
+    </text>
+  </g>
+</svg>
+

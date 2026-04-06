@@ -1,5 +1,5 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://pixeloop.tools/sitemap.xml
+Sitemap: https://image-tools-sandy-alpha.vercel.app/sitemap.xml
 
