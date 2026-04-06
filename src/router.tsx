@@ -10,6 +10,20 @@ export interface ToolRoute {
 
 export const toolRoutes: ToolRoute[] = [
   {
+    path: "/compress-image-to-50kb",
+    name: "Compress Image to 50KB",
+    shortDescription: "Compress an image to 50KB for strict upload limits.",
+    keywords: ["compress image to 50kb online", "reduce image size to 50kb"],
+    Component: lazy(() => import("./tools/CompressImage50kbPage")),
+  },
+  {
+    path: "/compress-image-to-100kb",
+    name: "Compress Image to 100KB",
+    shortDescription: "Compress an image to 100KB for forms and fast uploads.",
+    keywords: ["compress image to 100kb online", "reduce image size to 100kb"],
+    Component: lazy(() => import("./tools/CompressImage100kbPage")),
+  },
+  {
     path: "/tools/image-compressor",
     name: "Image Compressor",
     shortDescription: "Compress images in your browser without quality loss.",
