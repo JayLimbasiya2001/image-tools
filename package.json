@@ -9,7 +9,7 @@
     "lint": "eslint src --ext .ts,.tsx"
   },
   "engines": {
-    "node": ">=20"
+    "node": "20.x"
   },
   "dependencies": {
     "browser-image-compression": "^2.0.2",
